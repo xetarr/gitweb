@@ -1,0 +1,36 @@
+#banner
+image=https://i.imgur.com/tC7ZKpE.png
+text=&f&lGoogle.fr
+
+#navigation
+item-link-1=welcome.official
+item-label-1=Acceuil
+item-icon-1=HOME
+item-link-2=google.fr
+item-label-2=Google
+item-icon-2=CONTACTS
+item-link-3=submit.official
+item-label-3=Submit Website
+item-icon-3=EDIT
+item-link-4=welcome.official/report
+item-label-4=Report
+item-icon-4=ERROR
+
+#paragraph
+text=Bienvenue sur la &e&lliste des sites&r. HVous trouverez ici une liste de tous les sites Web actuellement disponibles sur GitWeb. Cette liste est générée manuellement afin que les nouveaux sites Web ne s'affichent pas immédiatement.
+padding=10
+
+#header
+text=&f&lSite disponible
+scale=2
+align=left
+padding=10
+
+#paragraph
+padding=10
+text=&eminecorp.corp\n&exr-corp.corp\n&ebendev.corp\n&euhost.corp\n&ewelcome.official\n&eminenews.web\n&epotion.wiki
+
+#footer
+title=GitWeb
+sub-title=Copyright (c) MrCrayfish
+home-page=welcome.official

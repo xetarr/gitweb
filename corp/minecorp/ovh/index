@@ -1,0 +1,59 @@
+#banner
+image=https://raw.githubusercontent.com/MrCrayfish/GitWeb-Sites/master/official/images/banner_basic_yellow.png
+text=&l&nBienvenue sur OVH
+
+#navigation
+item-link-1=minecorp.corp
+item-label-1=MineCorp
+item-icon-1=HOME
+item-link-2=minecorp.corp/dnalab
+item-label-2=DNALab
+item-icon-2=CONTACTS
+item-link-3=minecorp.corp/bricocraft
+item-label-3=BricoCraft
+item-icon-3=SHOPPING_CART
+
+#header
+text=&c&lQuesque c'est ?
+padding=10
+align=left
+scale=2
+
+#paragraph
+text=&e&lOVH&f est-une entreprise de protection des donnés et de serveur web.
+
+#paragraph
+text=Elle permet de sécurisé vos coffre avec un seul outil. Avec une pose rapide, efficace et discrète, vous ne verez pas la différence, vous verez seulement le faite que les coffres ne vous gèneront plus, vous aurez plus a vous posez la question de "ou j'ai posé mon cube de terre ?" tout est au même endroit.
+
+#header
+text=&c&lLes prix
+scale=2
+align=left
+padding=10
+
+#header
+text=&n&lServeur de stockage
+
+#paragraph
+text=- Serveur de stockage 1K = 50$/mois
+
+#paragraph
+text=- ajout d'un rack = 150$
+
+#header
+text=&c&lComment le commander ?
+scale=2
+padding=10
+align=left
+
+#paragraph
+text=Il vous suffit de faire une demande par E-mail avec votre adresse    ( X / Y / Z ), nous vous répondrons dans les plus bref delais.
+
+#header
+text=&810K de storage = 150$/mois  
+align=right
+
+#footer
+title=&0&lNe pas recopié
+sub-title=Copyright (c) MineCorp
+home-page=minecorp.corp

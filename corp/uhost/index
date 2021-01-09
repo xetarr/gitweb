@@ -1,0 +1,26 @@
+#banner
+image=https://i.imgur.com/11djQvi.png
+text=&f&lUhost
+
+#navigation
+item-link-1=uhost.corp
+item-label-1=Acceuil
+item-icon-1=HOME
+item-link-2=google.fr
+item-label-2=Google
+item-icon-2=CONTACTS
+item-link-3=bendev.corp
+item-label-3=BenDev Corp
+item-icon-3=EDIT
+item-link-4=minecorp.corp/ovh
+item-label-4=OVH
+item-icon-4=DATABASE
+
+#paragraph
+text=Have you discovered a website that is broken, contains obscene material or copyrighted content? Please report the offending website at &ehttps://github.com/MrCrayfish/GitWeb-Sites/issues&r and our moderators will deal with it accordingly.
+padding=10
+
+#footer
+title=GitWeb
+sub-title=Copyright (c) MrCrayfish
+home-page=uhost.corp

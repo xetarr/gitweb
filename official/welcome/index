@@ -1,0 +1,47 @@
+#banner
+image=https://i.imgur.com/rIzqukr.png
+text=&f&lBienvenue sur GitWeb
+
+#navigation
+item-link-1=welcome.official
+item-label-1=Acceuil
+item-icon-1=HOME
+item-link-2=google.fr
+item-label-2=Google
+item-icon-2=CONTACTS
+item-link-3=submit.official
+item-label-3=Heberger son site
+item-icon-3=EDIT
+item-link-4=welcome.official/report
+item-label-4=Erreur
+item-icon-4=ERROR
+
+#paragraph
+text=&e&lGitWeb&r est un navigateur web qui utilise Github. \n\nSi vous désirer créer un site web contacter BenDev Corp !
+image=https://avatars1.githubusercontent.com/u/2132216?s=460&v=4
+padding=10
+
+#header
+text=&f&lCommençon 
+scale=2
+align=left
+padding=10
+
+#paragraph
+text=Tout comme un navigateur Web normal, vous pouvez saisir l'adresse du site Web ci-dessus. Maintenant, ne prenez pas trop d'avance sur vous-même, vous ne pouvez pas entrer sur de vrais sites Web. Au lieu de cela, vous devez entrer l'adresse d'un site GitWeb. Vous pouvez trouver une liste de tous les sites Web disponibles sur &eindex.official
+padding=10
+
+#header
+text=&f&lCredits
+scale=2
+align=left
+padding=10
+
+#paragraph
+text=&e&lGitWeb&r was originally created by MinecraftDoodler. It is now updated and managed by MrCrayfish.
+padding=10
+
+#footer
+title=aYrO Dev
+sub-title=Copyright (c) aYrO Corp.
+home-page=welcome.official

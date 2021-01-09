@@ -1,0 +1,26 @@
+#banner
+image=https://i.imgur.com/11djQvi.png
+text=&f&lPour les sites
+
+#navigation
+item-link-1=welcome.official
+item-label-1=Acceuil
+item-icon-1=HOME
+item-link-2=uhost.corp
+item-label-2=Uhost
+item-icon-2=DATABASE
+item-link-3=bendev.corp
+item-label-3=BenDev Corp
+item-icon-3=CONTACTS
+item-link-4=minecorp.corp/ovh
+item-label-4=OVH
+item-icon-4=DATABASE
+
+#paragraph
+text=Pour les sites internet contacter BenDev Corp les prix sont affiché sur son site &ebendev.corp.
+padding=10
+
+#footer
+title=BenDev Net
+sub-title=Copyright (c) BenDev
+home-page=welcome.official
