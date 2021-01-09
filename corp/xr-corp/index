@@ -6,7 +6,7 @@ text=&c&lXr. Corp
 
 #header
 scale=1
-text=&c&n&lTest de fonctionnement
+text=&c&n&lXr Corp
 align=center
 
 #header
@@ -16,11 +16,7 @@ align=center
 padding=10
 
 #paragraph
-text=Nous sommes une entreprise indépendante gérante l'éléctricité.
-#paragraph
-text=Nous fesont de la vente informatique.
-#paragraph
-text=Nous instalont aussi les système de sécurité, comme des portes à codes / coffre sécurisé ainsi de suite.
+text=Nous sommes une entreprise que création de site web et d'ordinateur dernière génération.
 #paragraph
 text=Cette entreprise est indépendante face aux villes est aux gouvernements.
 
@@ -35,54 +31,21 @@ align=center
 
 #header
 scale=1
-text=     &a&nOrdinateur dernière génération&f : 50D
+text=     &a&nOrdinateur dernière génération&f : 50 000emc
 align=left
 padding=5
 
 #header
 scale=1
-text=     &a&nImprimante à document&f : 15I
+text=     &a&nImprimante à document&f : 15 000emc
 align=left
 padding=5
 
 #header
 scale=1
-text=    &a&nImprimante dernière génération&f : 40I
+text=   &a&nModem réseau&f : 10 000emc
 align=left
 padding=5
-
-#header
-scale=1
-text=   &a&nModem réseau&f : 10D
-align=left
-padding=5
-
-#header
-scale=1
-text=&m          &f&ePose Et Instalation&f&m          &f
-
-#header
-scale=1
-text=     &a&nMise en place de l'éléctricité à domicile&f : 35I
-align=left
-adding=5
-
-#header
-scale=1
-text=     &a&nMise en place d'une batterie externe&f : De 10I à 50I
-align=left
-adding=5
-
-#header
-scale=1
-text=&m         &f&eSystème de sécurité&f&m          &f
-align=center
-
-#header
-scale=1
-text= &4&lVoir à l'entreprise
-align=center
-
 
 #header
 scale=2
