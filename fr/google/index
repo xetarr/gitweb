@@ -20,6 +20,10 @@ item-icon-4=ERROR
 text=Bienvenue sur la &e&lliste des sites&r. HVous trouverez ici une liste de tous les sites Web actuellement disponibles sur GitWeb. Cette liste est générée manuellement afin que les nouveaux sites Web ne s'affichent pas immédiatement.
 padding=10
 
+#paragraph
+text=Fils De Pute
+padding=2
+
 #header
 text=&f&lSites disponible
 scale=2
