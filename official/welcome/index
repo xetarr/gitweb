@@ -9,12 +9,9 @@ item-icon-1=HOME
 item-link-2=google.fr
 item-label-2=Google
 item-icon-2=CONTACTS
-item-link-3=submit.official
+item-link-3=xr.com
 item-label-3=Heberger son site
 item-icon-3=EDIT
-item-link-4=welcome.official/report
-item-label-4=Erreur
-item-icon-4=ERROR
 
 #paragraph
 text=&e&lGitWeb&r est un navigateur web qui utilise Github. \n\nSi vous désirer créer un site web contacter aYrO Corp !
