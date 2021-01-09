@@ -3,6 +3,12 @@ image=https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/device-mo
 text=&c&lXr. Corp
 
 #navigation
+item-link-1=Xr.com
+item-label-1=Acceuil
+item-icon-1=HOME
+item-link-2=Xr.com/aYrHost
+item-link-2=Site Web
+item-icon-2=EDIT
 
 #header
 scale=1
