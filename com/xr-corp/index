@@ -1,0 +1,64 @@
+#banner
+image=https://raw.githubusercontent.com/Ocelot5836/storage/master/mods/device-mod/gitweb/modelcreator/main-banner.png
+text=&c&lXr. Corp
+
+#navigation
+
+#header
+scale=1
+text=&c&n&lXr Corp
+align=center
+
+#header
+scale=2
+text=&c&lQui sommes Nous ?
+align=center
+padding=10
+
+#paragraph
+text=Nous sommes une entreprise que création de site web et d'ordinateur dernière génération.
+#paragraph
+text=Cette entreprise est indépendante face aux villes est aux gouvernements.
+
+#header
+scale=2
+text=&c&lNos produit
+
+#header
+scale=1
+text=&m          &fInformatique&m          &f
+align=center
+
+#header
+scale=1
+text=     &a&nOrdinateur dernière génération&f : 50 000emc
+align=left
+padding=5
+
+#header
+scale=1
+text=     &a&nImprimante à document&f : 15 000emc
+align=left
+padding=5
+
+#header
+scale=1
+text=   &a&nModem réseau&f : 10 000emc
+align=left
+padding=5
+
+#header
+scale=2
+text=&c&lComment nous contacté
+align=center
+
+#paragraph
+text=      &nE-mail&f = Barshi@endermail.com
+
+#paragraph
+text=      &nCourrier&f = -49 / 65 / -889
+
+#footer
+title=  
+sub-title=Developpé par Leon Barshi
+home-page=xr-corp.corp
